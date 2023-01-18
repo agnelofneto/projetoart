@@ -1,6 +1,6 @@
 ### 💻Art Project
 
-The first project of the bootstrap surface is the project called ART urban art exhibitions that takes place here and will work with different resources , both making standard HTML CSS the easiest way for us to really be able to integrate and also realizing when we can simply not use bootstrap do something customized one hundred percent to meet some need.
+Bootstrap surface project is the project called ART urban art exhibitions that takes place here and will work with several resources , both making standard HTML CSS in the easiest way so that we can really integrate and also realizing when we can simply not use bootstrap to do something customized one hundred percent to meet any need.
 
 - Bootstrap 5;
 - Work with colors and fonts;
