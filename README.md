@@ -26,4 +26,4 @@ Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
-- [Boostrap](https://getbootstrap.com/)eto
+- [Boostrap](https://getbootstrap.com/)
